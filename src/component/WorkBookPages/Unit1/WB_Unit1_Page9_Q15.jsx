@@ -132,7 +132,7 @@ l’exercice précédent.
         <tr key={index} className="table-row">
           
           {/* العمود الأول */}
-          <td className={`table-cell ${index === 5 ? "disabled-cell" : ""}`}>
+          <td  className={`table-cell ${index === 5 ? "disabled-cell" : ""}`}>
             <input
               type="text"
               value={row.masc}
