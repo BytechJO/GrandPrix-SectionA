@@ -18,12 +18,12 @@
 .table-container::before {
   content: "";
   position: absolute;
-  top: 20px;
-  bottom: 20px;
+  top: 30px;
+  bottom: 30px;
   left: 50%;
   width: 2px;
 
-  background: black;
+  background:  #de4484;
   transform: translateX(-50%);
 
 }

@@ -5,7 +5,15 @@
   margin-top: 0%;
     height: 50%;
 }
+.table-cell {
+  border-left: none;
+  border-right: none;
+}
 
+.table-row {
+  border-top: 2px solid #de4484;
+  border-bottom: 2px solid #de4484;
+}
 /* ===== Table ===== */
 .nationality-table {
   width: 100%;
